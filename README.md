@@ -1,3 +1,3 @@
 # git-workshop-v2
 
-/Andjela se potpisala
+IZMENA 1.1
