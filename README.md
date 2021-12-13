@@ -1,3 +1,2 @@
 # git-workshop-v2
-
-hello world
+IZMENA 1.1
